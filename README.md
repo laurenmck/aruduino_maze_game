@@ -19,7 +19,8 @@ For this project, our solution was required to use PWM, ADC, or DAC, have an int
 **ADC**: The joystick functions like two potentiometers and indicates its position using analog voltages, which are then converted using an ADC into digital values ranging from 0 to 1023 that we can then read.  
 
 **Watchdog Timer**: The watchdog timer will ensure that there is a constant connection between the LCD screen and the game components. If the connection is lost, the user cannot be informed about the game status, and the timer ensures that the display properly reflects the current game status. Thus, the watchdog is pet every time a message is received, and if the receiver goes 2 seconds without receiving a message, the early warning ‘connection is lost!’ message will be shown and the system will be reset.
-Interrupt: The interrupt is triggered when the joystick is clicked by the user (and its signal changes from 1 to 0). This will restart the game, starting the countdown to begin a new game. 
+
+**Interrupt:** The interrupt is triggered when the joystick is clicked by the user (and its signal changes from 1 to 0). This will restart the game, starting the countdown to begin a new game. 
 
 **Serial Communication**: we are using the Arduino LCD screen to communicate game updates to the user. Based on the game state, our main Arduino will send messages to the LCD screen Arduino and the corresponding message will be shown to the user. 
 
