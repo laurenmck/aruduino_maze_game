@@ -8,8 +8,6 @@ For the project, we will be creating a maze game! The goal of this game is for t
 **Project Durration:** November 2022 - December 2022 <br>
 **Project Type:** Group Project for Real Time and Embedded Software (cs1600) <br>
 
-<img src="https://user-images.githubusercontent.com/28674640/208178099-16a3cd15-f23c-4cdb-ac4d-a7386fb81489.png" width="400"/>
-
 # Project Demo!
 
 https://user-images.githubusercontent.com/28674640/208175935-69cc6729-44d5-43bd-a8c1-16b55f44f214.mp4
@@ -38,3 +36,5 @@ More specific messaging specs:
 
 # Learn More 
 More information about our project, including out state machine, architecture diagram and testing procedure can be found in our project write up: https://docs.google.com/document/d/1gAKFA8TQqzthJVI9mLayMgBqKDwhxPAjZJZoRz2uU3A/edit
+<img src="https://user-images.githubusercontent.com/28674640/208178099-16a3cd15-f23c-4cdb-ac4d-a7386fb81489.png" width="400"/>
+
