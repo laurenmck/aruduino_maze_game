@@ -4,11 +4,11 @@ For the project, we will be creating a maze game! The goal of this game is for t
 
 # Project Information 
 
-Group Members: @laurenmck, @jessieyli, James Cai and Brennan Nugent. 
-Project Durration: November 2022 - December 2022
-Project Type: Group Project for Real Time and Embedded Software (cs1600)
+**Group Members:** @jessieyli, James Cai and Brennan Nugent & Lauren McKeown (me). <br>
+**Project Durration:** November 2022 - December 2022 <br>
+**Project Type:** Group Project for Real Time and Embedded Software (cs1600) <br>
 
-![IMG_1602-min](https://user-images.githubusercontent.com/28674640/208178099-16a3cd15-f23c-4cdb-ac4d-a7386fb81489.png)
+![IMG_1602-min](https://user-images.githubusercontent.com/28674640/208178099-16a3cd15-f23c-4cdb-ac4d-a7386fb81489.png =100x100)
 
 # Project Demo!
 
