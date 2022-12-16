@@ -37,5 +37,7 @@ More specific messaging specs:
 
 # Learn More 
 More information about our project, including out state machine, architecture diagram and testing procedure can be found in our project write up: https://docs.google.com/document/d/1gAKFA8TQqzthJVI9mLayMgBqKDwhxPAjZJZoRz2uU3A/edit
+
+# Demo day :)
 <img src="https://user-images.githubusercontent.com/28674640/208178099-16a3cd15-f23c-4cdb-ac4d-a7386fb81489.png" width="400"/>
 
