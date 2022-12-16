@@ -8,7 +8,7 @@ Group Members: @laurenmck, @jessieyli, James Cai and Brennan Nugent.
 Project Durration: November 2022 - December 2022
 Project Type: Group Project for Real Time and Embedded Software (cs1600)
 
-![IMG_1602-min](https://user-images.githubusercontent.com/28674640/208176930-211b0bd8-0ee6-4207-8dde-eefedb3ac37c.png | width=100)
+![](https://user-images.githubusercontent.com/28674640/208176930-211b0bd8-0ee6-4207-8dde-eefedb3ac37c.png | width=100)
 
 # Project Demo!
 
